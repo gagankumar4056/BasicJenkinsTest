@@ -9,5 +9,6 @@ import org.testng.annotations.Test;
 public class JavaTest {
 WebDriver driverfire = new FirefoxDriver();
 //driver.navigate().to("www.google.com");
-driverfire.get("http://www.google.com");
+//driverfire.nav("http://www.google.com");
+  //  driverfire.navi().to("www.google.com");
 }
